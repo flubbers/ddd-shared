@@ -2,6 +2,7 @@
     "name": "cuartalia/ddd-shared",
     "description": "Ddd dependencies",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Cuartalia\\DddShared\\": "src/"
