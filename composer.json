@@ -1,0 +1,18 @@
+{
+    "name": "cuartalia/ddd-shared",
+    "description": "Ddd dependencies",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cuartalia\\DddShared\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manuel de la Rosa Morales",
+            "email": "manuel@cuartalia.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
